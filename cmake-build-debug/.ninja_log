@@ -1,0 +1,7 @@
+# ninja log v5
+1	53	1648731779290622849	CMakeFiles/pa1.dir/main.c.o	a21ec20b92c2f6ff
+1	36	1648731779270622826	CMakeFiles/pa1.dir/child_process.c.o	922d4b4d399cb5d5
+1	55	1648731779290622849	CMakeFiles/pa1.dir/banking.c.o	2c6f9a7361265831
+1	29	1648731779266622821	CMakeFiles/pa1.dir/ipc.c.o	607f6a1ea2f30e64
+0	19	1648737267699516171	CMakeFiles/pa1.dir/bank_robbery.c.o	a15ff1e0338a50af
+1	108	1648731779342622909	CMakeFiles/pa1.dir/utils.c.o	1573ea518b9cac46

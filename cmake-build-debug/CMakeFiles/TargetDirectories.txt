@@ -1,0 +1,3 @@
+/home/dinodafor/Загрузки/pa2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dinodafor/Загрузки/pa2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dinodafor/Загрузки/pa2/cmake-build-debug/CMakeFiles/pa1.dir
